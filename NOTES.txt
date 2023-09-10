@@ -1,0 +1,41 @@
+** Simple table
+BOS 92 70
+DET 91 71
+MIN 91 71
+CHA 89 73
+
+** Add logo columm, then span
+
+** CLASS EXERCISE: Beer
+FORK, coppy beer 0.htm into beer-name.html
+
+** style1.html
+Issue:boring... 
+add color:blue to a particular element
+add a second text-align:center
+move attribute to <body>
+
+** style2.html
+Issue:add another hl
+move style to the head area
+
+** style3.html
+Issue: multiple pages in a webiste
+move css to a separate file
+
+** size.html
+Add <div> tag
+Give it background-color, width, height
+Add padding (inside of border), margin (outside of border)
+
+** font.html
+family
+family backup
+size
+weight
+
+** selection
+<ul>
+
+by id: ids.html
+by class: class.html
